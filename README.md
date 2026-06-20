@@ -1,16 +1,55 @@
-## Hi there 👋
+<div align="center">
+  <!-- Typing SVG Header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7BAEA6&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Justin+Nolasco+👋;ASP.NET+Core+%26+Full-Stack+Developer;IT+Student+%7C+Tech+Enthusiast" alt="Typing SVG" />
+  </a>
 
-<!--
-**Justin-stack101/Justin-stack101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- Subtitle -->
+  <p><strong>IT Student | Aspiring Full-Stack & ASP.NET Developer</strong></p>
 
-Here are some ideas to get you started:
+  <!-- Social Badges -->
+  <div>
+    <a href="mailto:Justine03k@gmail.com">
+      <img src="https://img.shields.io/badge/Email-0b4c3a?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/feed/">
+      <img src="https://img.shields.io/badge/LinkedIn-0b4c3a?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <br />
+
+  <!-- Unified Tech Stack Grid (Matches the image style) -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,jquery,ejs,dotnet,csharp,python,nodejs,java,kotlin,php,mongodb,mysql,postgres,sqlite,git,github,vscode&perline=11" alt="My Tech Stack" />
+  </a>
+</div>
+
+<br/>
+<hr/>
+
+### 🌱 About Me
+I’m an IT student and aspiring Full-Stack Developer passionate about building scalable, secure, and user-friendly applications. My journey blends academic learning with hands-on projects, where I focus on **ASP.NET Core**, **Node.js**, and **modern web technologies**.  
+Beyond coding, I value teamwork, clear communication, and continuous growth — aiming to contribute to innovative solutions that make a real impact.
+
+---
+
+### 📊 GitHub Stats & Metrics
+
+<p align="center">
+  <!-- GitHub Stats Card (Seamless Dark Theme) -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Justin-stack101&show_icons=true&count_private=true&bg_color=0d1117&title_color=7baea6&text_color=c9d1d9&icon_color=3b8c6e&hide_border=true" alt="Justin's GitHub Stats" height="195px" />
+  </a>
+  <!-- Top Languages Card (Seamless Dark Theme) -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justin-stack101&layout=compact&langs_count=8&bg_color=0d1117&title_color=7baea6&text_color=c9d1d9&icon_color=3b8c6e&hide_border=true" alt="Top Languages" height="195px" />
+  </a>
+</p>
+
+---
+
+### ☕ Currently Working On & Studying
+- 🎓 **School:** Advancing my skills in **Java**, **C# .NET technologies**, and **Kotlin** (Android).
+- 🎮 **Capstone Project:** Building a fully operational management system (**HonTech**) using Node.js, Express, and MongoDB.
+- 📚 **Self-Study:** Mastering **JavaScript (ES6+)**, building responsive real-world web designs, and diving into **PHP API & MySQL**.
