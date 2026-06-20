@@ -12,14 +12,14 @@
     <a href="mailto:Justine03k@gmail.com">
       <img src="https://img.shields.io/badge/Email-0b4c3a?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://www.linkedin.com/feed/">
+    <a href="https://www.linkedin.com/in/justin-nolasco">
       <img src="https://img.shields.io/badge/LinkedIn-0b4c3a?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </div>
 
   <br />
 
-  <!-- Unified Tech Stack Grid (Matches the image style) -->
+  <!-- Unified Tech Stack Grid -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,jquery,ejs,dotnet,csharp,python,nodejs,java,kotlin,php,mongodb,mysql,postgres,sqlite,git,github,vscode&perline=11" alt="My Tech Stack" />
   </a>
@@ -37,11 +37,9 @@ Beyond coding, I value teamwork, clear communication, and continuous growth — 
 ### 📊 GitHub Stats & Metrics
 
 <p align="center">
-  <!-- GitHub Stats Card (Seamless Dark Theme) -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Justin-stack101&show_icons=true&count_private=true&bg_color=0d1117&title_color=7baea6&text_color=c9d1d9&icon_color=3b8c6e&hide_border=true" alt="Justin's GitHub Stats" height="195px" />
   </a>
-  <!-- Top Languages Card (Seamless Dark Theme) -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justin-stack101&layout=compact&langs_count=8&bg_color=0d1117&title_color=7baea6&text_color=c9d1d9&icon_color=3b8c6e&hide_border=true" alt="Top Languages" height="195px" />
   </a>
@@ -53,3 +51,18 @@ Beyond coding, I value teamwork, clear communication, and continuous growth — 
 - 🎓 **School:** Advancing my skills in **Java**, **C# .NET technologies**, and **Kotlin** (Android).
 - 🎮 **Capstone Project:** Building a fully operational management system (**HonTech**) using Node.js, Express, and MongoDB.
 - 📚 **Self-Study:** Mastering **JavaScript (ES6+)**, building responsive real-world web designs, and diving into **PHP API & MySQL**.
+
+---
+
+### 🎯 Career Goals
+- Currently Studying  **BSIT degree** and secure a role in **full‑stack development**.  
+- Build expertise in **network engineering, cybersecurity, and ethical hacking**.  
+- Explore teaching pathways to share knowledge and mentor future IT students.  
+- Long‑term: transition into **game development** and advanced **AI projects**.  
+
+---
+
+### 📌 Featured Projects
+- [HonTech Management System](https://github.com/Justin-stack101/CapstoneOfficial2_Development) – Node.js + Express + MongoDB capstone project.  
+- [Dicee Game](https://github.com/Justin-stack101/Dicee) – JavaScript mini‑project from bootcamp.  
+- [Portfolio Website](https://github.com/Justin-stack101/Portfolio) – Responsive personal site showcasing skills.  
