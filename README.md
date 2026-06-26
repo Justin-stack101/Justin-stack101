@@ -12,7 +12,7 @@
     <a href="mailto:Justine03k@gmail.com">
       <img src="https://img.shields.io/badge/Email-0b4c3a?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://www.linkedin.com/in/justin-nolasco">
+    <a href="https://www.linkedin.com/in/justin-nolasco-858526407/">
       <img src="https://img.shields.io/badge/LinkedIn-0b4c3a?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </div>
@@ -55,7 +55,7 @@ Beyond coding, I value teamwork, clear communication, and continuous growth — 
 ---
 
 ### 🎯 Career Goals
-- Currently Studying  **BSIT degree** and secure a role in **full‑stack development**.  
+- Graduate with a **BSIT degree** and secure a role in **full‑stack development**.  
 - Build expertise in **network engineering, cybersecurity, and ethical hacking**.  
 - Explore teaching pathways to share knowledge and mentor future IT students.  
 - Long‑term: transition into **game development** and advanced **AI projects**.  
