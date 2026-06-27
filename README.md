@@ -19,9 +19,18 @@
 
   <br />
 
-  <!-- Unified Tech Stack Grid -->
+  <!-- Core Tech Stack -->
+  <p><strong>💻 Core Stack</strong></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,jquery,ejs,dotnet,csharp,python,nodejs,java,kotlin,php,mongodb,mysql,postgres,sqlite,git,github,vscode&perline=11" alt="My Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,react,dotnet,csharp,mongodb,html,css&perline=8" alt="Core Tech Stack" />
+  </a>
+  
+  <br /><br />
+  
+  <!-- Familiar & Exploring -->
+  <p><strong>🔧 Tools & Also Explored</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,kotlin,python,php,mysql,postgres,sqlite,git,github,vscode,visualstudio,androidstudio,bootstrap,jquery&perline=14" alt="Familiar Tech" />
   </a>
 </div>
 
@@ -29,7 +38,8 @@
 <hr/>
 
 ### 🌱 About Me
-I’m an IT student and aspiring Full-Stack Developer passionate about building scalable, secure, and user-friendly applications. My journey blends academic learning with hands-on projects, where I focus on **ASP.NET Core**, **Node.js**, and **modern web technologies**.  
+I’m an IT student and aspiring **Full-Stack Developer** passionate about building scalable, secure, and user-friendly applications. My journey blends academic learning with hands-on projects, where my primary focus is developing robust backend architectures with **ASP.NET Core** and **Node.js**, alongside modern frontend interfaces.  
+
 Beyond coding, I value teamwork, clear communication, and continuous growth — aiming to contribute to innovative solutions that make a real impact.
 
 ---
@@ -49,13 +59,13 @@ Beyond coding, I value teamwork, clear communication, and continuous growth — 
 
 ### ☕ Currently Working On & Studying
 - 🎓 **School:** Advancing my skills in **Java**, **C# .NET technologies**, and **Kotlin** (Android).
-- 🎮 **Capstone Project:** Building a fully operational management system (**HonTech**) using Node.js, Express, and MongoDB.
+- 🎮 **Capstone Project:** Building a fully operational management system (**HonTech**) using **Node.js, Express, and MongoDB**.
 - 📚 **Self-Study:** Mastering **JavaScript (ES6+)**, building responsive real-world web designs, and diving into **PHP API & MySQL**.
 
 ---
 
 ### 🎯 Career Goals
-- Graduate with a **BSIT degree** and secure a role in **full‑stack development**.  
+- Graduate with a **BSIT degree** and secure a role in **Full‑Stack Development**.  
 - Build expertise in **network engineering, cybersecurity, and ethical hacking**.  
 - Explore teaching pathways to share knowledge and mentor future IT students.  
 - Long‑term: transition into **game development** and advanced **AI projects**.  
@@ -63,6 +73,6 @@ Beyond coding, I value teamwork, clear communication, and continuous growth — 
 ---
 
 ### 📌 Featured Projects
-- [HonTech Management System](https://github.com/Justin-stack101/CapstoneOfficial2_Development) – Node.js + Express + MongoDB capstone project.  
-- [Dicee Game](https://github.com/Justin-stack101/Dicee) – JavaScript mini‑project from bootcamp.  
-- [Portfolio Website](https://github.com/Justin-stack101/Portfolio) – Responsive personal site showcasing skills.  
+- 🏆 **[HonTech Management System](https://github.com/Justin-stack101/CapstoneOfficial2_Development)** – My Capstone Project! A fully operational management system built with Node.js, Express, and MongoDB.  
+- 🎲 **[Dicee Game](https://github.com/Justin-stack101/Dicee)** – A JavaScript-based logic game built during an intensive bootcamp.  
+- 👨‍💻 **[Portfolio Website](https://github.com/Justin-stack101/Portfolio)** – My personal responsive website showcasing my development journey and skills.  
